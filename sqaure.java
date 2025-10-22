@@ -1,6 +1,6 @@
 import org.w3c.dom.ls.LSOutput;public class sqaure {
     public static void main(String[] args) {
-        int number = 7;
+        int number = 10;
         int square = number * number;
         System.out.println("The square of " + number + " is: " + square);
 
