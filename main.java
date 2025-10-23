@@ -17,7 +17,7 @@ public class main {
 //        int num =  (int) n ;
 //        System.out.println(num);
 
-        double n =8.33338F;
+        double n =8.33398F;
         int num =  (int) n ;
         System.out.println(num);
 
