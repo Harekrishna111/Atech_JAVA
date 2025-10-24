@@ -6,7 +6,7 @@ public class casting {
         int num = c ;
         System.out.println(num);
 
-        int n = 65;
+        int n = 66;
         char str = (char) n;
         System.out.println(str);
 
