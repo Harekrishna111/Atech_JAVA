@@ -21,5 +21,7 @@ public class main {
         int num =  (int) n ;
         System.out.println(num);
 
+
+
     }
 }
