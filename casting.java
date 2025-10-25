@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class casting {
     public static void main(String [] args){
         char c = 'A';
