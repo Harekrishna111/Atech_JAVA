@@ -6,7 +6,8 @@ public class bitwise_operator {
 //        int b = 9;
         int a= 12;
         int b = 5;
-        System.out.println(a&b);
-        System.out.println(a|b);
+//        System.out.println(a&b);
+//        System.out.println(a|b);
+        System.out.println(a^b);
     }
 }
